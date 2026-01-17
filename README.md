@@ -39,6 +39,11 @@ The Market Basket primarily covers sales transactions from the **UK market**, as
 
 You can access the dataset directly in the repository by downloading the **`data.zip`** file.
 
+## Business Insights
+The **Business Insights** document in **PDF format** has been included in this repository. It contains actionable business recommendations based on the results of the analysis. You can download and review the insights for strategic recommendations related to **inventory management**, **product bundling**, and **sales forecasting**.
+
+The PDF is available here: [**Business Insights: Retail Sales Analysis and Prediction**](./Business%20Insights_%20Retail%20Sales%20Analysis%20and%20Prediction.pdf).
+
 ## Requirements
 
 To run this notebook, you'll need to have Python and the following libraries installed:
